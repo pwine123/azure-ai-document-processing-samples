@@ -1,0 +1,259 @@
+{
+	"fname": "Canada - 2023 Tax Form Combined EN - Fully Populated.pdf",
+	"expected": {
+		"step_2_total_income": {
+			"employment_income": {
+				"code": "10100",
+				"amount": 107982.0
+			},
+			"tax_exempt_income_for_emergency_services_volunteers": {
+				"code": "10105",
+				"amount": 5000.0
+			},
+			"commissions_included_on_line_10100": {
+				"code": "10120",
+				"amount": 2000.0
+			},
+			"wage_loss_replacement_contributions": {
+				"code": "10130",
+				"amount": 1500.0
+			},
+			"other_employment_income": {
+				"code": "10400",
+				"amount": 3000.0
+			},
+			"old_age_security_pension": {
+				"code": "11300",
+				"amount": 12000.0
+			},
+			"cpp_or_qpp_benefits": {
+				"code": "11400",
+				"amount": 8000.0
+			},
+			"disability_benefits_included_on_line_11400": {
+				"code": "11410",
+				"amount": 2000.0
+			},
+			"other_pensions_and_superannuation": {
+				"code": "11500",
+				"amount": 15000.0
+			},
+			"elected_split_pension_amount": {
+				"code": "11600",
+				"amount": 5000.0
+			},
+			"universal_child_care_benefit": {
+				"code": "11700",
+				"amount": 2400.0
+			},
+			"uccb_amount_designated_to_a_dependant": {
+				"code": "11701",
+				"amount": 1200.0
+			},
+			"employment_insurance_and_other_benefits": {
+				"code": "11900",
+				"amount": 10000.0
+			},
+			"ei_maternity_and_parental_benefits_and_ppip_benefits": {
+				"code": "11905",
+				"amount": 6000.0
+			},
+			"taxable_amount_of_dividends_from_taxable_canadian_corporations": {
+				"amount_of_dividends_eligible_and_other_than_eligible": {
+					"code": "12000",
+					"amount": 5000.0
+				},
+				"amount_of_dividends_other_than_eligible": {
+					"code": "12010",
+					"amount": 3000.0
+				}
+			},
+			"interest_and_other_investment_income": {
+				"code": "12100",
+				"amounts": [
+					200,
+					300
+				]
+			},
+			"net_partnership_income_limited_or_non_active_partners_only": {
+				"code": "12200",
+				"amounts": [
+					100,
+					200
+				]
+			},
+			"registered_disability_savings_plan_income": {
+				"code": "12500",
+				"amounts": [
+					100,
+					200
+				]
+			},
+			"rental_income_gross_net": {
+				"gross": {
+					"code": "12600",
+					"amounts": [
+						100,
+						200
+					]
+				},
+				"net": {
+					"code": "12610",
+					"amounts": [
+						100,
+						200
+					]
+				}
+			},
+			"taxable_capital_gains": {
+				"code": "12700",
+				"amounts": [
+					100,
+					200
+				]
+			},
+			"support_payments_received_total_taxable_amounts_from_lines_12800_and_12810_of_return_to_claim_certain_credits": {
+				"total_taxable_amounts": {
+					"code": "12800",
+					"amounts": [
+						100,
+						200
+					]
+				}
+			},
+			"registered_retirement_savings_plan_income": {
+				"code": "12900",
+				"amounts": [
+					100,
+					200
+				]
+			},
+			"taxable_first_home_savings_account_income_boxes_22_and_26_of_all_t4fhsa_slips": {
+				"code": "13000",
+				"amounts": [
+					100,
+					200
+				]
+			},
+			"taxable_fhsa_income_other_boxes_24_and_28_of_all_t4fhsa_slips": {
+				"code": "13100",
+				"amounts": [
+					100,
+					200
+				]
+			},
+			"other_income_specify": {
+				"taxable_scholarships_fellowships_bursaries_and_artists_project_grants": {
+					"code": "13200",
+					"amounts": [
+						100,
+						200
+					]
+				}
+			},
+			"self_employment_income_see_guide_t4002": {
+				"business_income_gross_net": {
+					"gross": {
+						"code": "13499",
+						"amounts": [
+							100,
+							200
+						]
+					},
+					"net": {
+						"code": "13599",
+						"amounts": [
+							100,
+							200
+						]
+					}
+				},
+				"professional_income_gross_net": {
+					"gross": {
+						"code": "13699",
+						"amounts": [
+							100,
+							200
+						]
+					},
+					"net": {
+						"code": "13799",
+						"amounts": [
+							100,
+							200
+						]
+					}
+				},
+				"commission_income_gross_net": {
+					"gross": {
+						"code": "13899",
+						"amounts": [
+							100,
+							200
+						]
+					},
+					"net": {
+						"code": "13999",
+						"amounts": [
+							100,
+							200
+						]
+					}
+				},
+				"farming_income_gross_net": {
+					"gross": {
+						"code": "14099",
+						"amounts": [
+							100,
+							200
+						]
+					},
+					"net": {
+						"code": "14199",
+						"amounts": [
+							100,
+							200
+						]
+					}
+				},
+				"fishing_income_gross_net": {
+					"gross": {
+						"code": "14299",
+						"amounts": [
+							100,
+							200
+						]
+					},
+					"net": {
+						"code": "14399",
+						"amounts": [
+							100,
+							200
+						]
+					}
+				}
+			},
+			"workers_compensation_benefits_box_10_of_the_t5007_slip": {
+				"code": "14400",
+				"amounts": [
+					100,
+					200
+				]
+			},
+			"social_assistance_payments_box_11_of_the_t5007_slip": {
+				"code": "14500",
+				"amounts": [
+					100,
+					200
+				]
+			},
+			"net_federal_supplements_paid_box_21_of_the_t4a_oas_slip": {
+				"code": "14600",
+				"amounts": [
+					100,
+					200
+				]
+			}
+		}
+	}
+}

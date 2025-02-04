@@ -1,0 +1,24 @@
+{
+    "fname": "Canada_EN_1&2.pdf",
+    "expected": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "sin": "123-456-789",
+        "date_of_birth": "1980-01-01",
+        "marital_status": "Married",
+        "language_of_correspondence": "English",
+        "residence_province": "Ontario",
+        "current_province": "",
+        "business_province": "",
+        "address": {
+            
+            "street": "Main St",
+            "city": "Toronto",
+            "province": "Ontario",
+            "postal_code": "A1B 2C3"
+        },
+        "spouse_first_name": "Jane",
+        "spouse_sin": "987-654-321",
+        "spouse_net_income": 50000.0
+    }
+}
